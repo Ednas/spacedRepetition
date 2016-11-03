@@ -4,6 +4,9 @@
   "description": "MERN Stack application for flash cards that will help the user master concepts by reminding them to study them according to the ANKI curve",
   "main": "index.js",
   "scripts": {
+    "webpack-watch": "webpack -w",
+    "express-server": "node ./server",
+    "dev": "concurrently --kill-others \"npm run webpack-watch\" \"npm run express-server\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
