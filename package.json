@@ -22,5 +22,14 @@
   "bugs": {
     "url": "https://github.com/Ednas/spacedRepetition/issues"
   },
-  "homepage": "https://github.com/Ednas/spacedRepetition#readme"
+  "homepage": "https://github.com/Ednas/spacedRepetition#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.6",
+    "morgan": "^1.7.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^3.0.0"
+  }
 }
