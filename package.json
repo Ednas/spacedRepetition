@@ -1,0 +1,26 @@
+{
+  "name": "spaced-repetition",
+  "version": "1.0.0",
+  "description": "MERN Stack application for flash cards that will help the user master concepts by reminding them to study them according to the ANKI curve",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ednas/spacedRepetition.git"
+  },
+  "keywords": [
+    "MERN",
+    "MongoDB",
+    "Express",
+    "Node",
+    "React"
+  ],
+  "author": "Edna Jonsson and Pedro Sivero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ednas/spacedRepetition/issues"
+  },
+  "homepage": "https://github.com/Ednas/spacedRepetition#readme"
+}
